@@ -1,5 +1,6 @@
 using MassTransit;
 using Microsoft.AspNetCore.Mvc;
+using Users;
 
 var builder = WebApplication.CreateBuilder(args);
 
